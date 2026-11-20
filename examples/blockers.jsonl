@@ -1,0 +1,3 @@
+{"timestamp": "2026-11-20T14:00:00+00:00", "service": "example-api", "issue": "api 401 on /v1/jobs", "action": "rotate key", "severity": "high"}
+{"timestamp": "2026-11-20T13:30:00+00:00", "service": "worker", "issue": "process dead, no heartbeat for 10 minutes", "action": "restart worker", "severity": "high"}
+{"timestamp": "2026-11-20T12:00:00+00:00", "service": "billing", "issue": "funding needed to top up API balance", "action": "ask user to approve top-up", "severity": "medium"}

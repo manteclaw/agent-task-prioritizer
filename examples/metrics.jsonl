@@ -1,0 +1,13 @@
+{"task_type": "code", "reward": 120, "duration_s": 1800, "quality": 0.9}
+{"task_type": "code", "reward": 90, "duration_s": 1200, "quality": 0.8}
+{"task_type": "code", "reward": 200, "duration_s": 3600, "quality": 0.95}
+{"task_type": "code", "reward": 60, "duration_s": 900, "quality": 0.7}
+{"task_type": "research", "reward": 80, "duration_s": 3600, "quality": 0.8}
+{"task_type": "research", "reward": 150, "duration_s": 5400, "quality": 0.9}
+{"task_type": "research", "reward": 60, "duration_s": 1800, "quality": 0.6}
+{"task_type": "writing", "reward": 100, "duration_s": 1800, "quality": 0.9}
+{"task_type": "writing", "reward": 70, "duration_s": 1500, "quality": 0.85}
+{"task_type": "writing", "reward": 130, "duration_s": 2400, "quality": 0.9}
+{"task_type": "writing", "reward": 50, "duration_s": 900, "quality": 0.7}
+{"task_type": "review", "reward": 300, "duration_s": 3600, "quality": 0.95}
+{"task_type": "review", "reward": 250, "duration_s": 2700, "quality": 0.9}

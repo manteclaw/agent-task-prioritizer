@@ -1,0 +1,12 @@
+{
+  "_comment": "Optional. Maps a service name to how its blockers can be auto-resolved. Omit a service to get safe defaults: funding always skips, unknown issues are reported, not acted on. Commands run with your shell, so only put commands you trust here.",
+  "services": {
+    "example-api": {
+      "api_key_env": "EXAMPLE_API_KEY",
+      "health_check": "curl -s -o /dev/null -w %{http_code} https://example.com"
+    },
+    "worker": {
+      "restart": "echo 'restarting worker (example command \u2014 replace with your real start command)'"
+    }
+  }
+}
